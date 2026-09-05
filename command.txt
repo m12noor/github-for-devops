@@ -20,3 +20,5 @@ git status
 Get-History
 
 git status
+
+This is command.txt file
