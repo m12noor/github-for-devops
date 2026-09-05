@@ -1,0 +1,22 @@
+ git init                                                                                    
+dir -a                                                                                      
+ dir                                                                                         
+dir -Force                                                                                  
+git status                                                                                  
+git add                                                                                     
+git add .                                                                                   
+git commit -m "Added files"                                                                 
+git config --global user.name "m12noor"                                                     
+git commit -m "Added latest files"                                                          
+git congig --global user.email "mahnoorriaz540@gmail.com"                                   
+git config --global user.email "mahnoorriaz540@gmail.com"                                   
+git config --global user.name "m12noor"                                                     
+git commit -m "Added latest files"                                                          
+git status                                                                                  
+rm testing.py                                                                               
+git status                                                                                  
+git restore testing.py                                                                      
+git status                                                                                    
+Get-History
+
+git status
